@@ -1,0 +1,22 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30 px ;
+    align-items: center;
+}
+.hero_title {
+    font-size: 47 px;
+    line-height: 59 px;
+    color: #070707;
+}
+.hero_descr {
+    font-size: 18 px;
+    line-height: 22 px;
+    color: #070707;
+}
+.hero_lang {
+    font-size: 16 px;
+    line-height: 20 px;
+    color: #828282;
+    transform: rotate(-90 deg);
+}
