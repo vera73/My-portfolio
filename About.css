@@ -1,0 +1,14 @@
+.about_title {
+    font-size: 34 px;
+    line-height: 42 px;
+    text-align: center ;
+    color: #070707;
+}
+.about_descr {
+    max-width: 485 px;
+    margin: 0 auto;
+    font-size: 18 px;
+    line-height: 22 px;
+    text-align: center ;
+    color: #070707;
+ }
