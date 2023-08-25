@@ -1,0 +1,22 @@
+.header {
+   max-width: 940 px;
+   border-bottom:  1 px solid #828282;
+   margin: 0 auto;
+   margin-bottom: 30 px;
+}
+.header_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 32 px;
+    padding-bottom: 32 px;
+
+}
+.header_item a{
+    text-decoration: none;
+    font-size:  18 px;
+    line-height: 22 px;
+    color: #828282;
+}
