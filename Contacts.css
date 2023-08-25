@@ -1,0 +1,11 @@
+textarea {
+    resize: none;
+    width: 100%;
+    min-height: 200 px;
+}
+
+input {
+    border: none;
+    outline: none;
+    padding: 5 px 15 px;
+}
