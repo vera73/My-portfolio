@@ -1,0 +1,32 @@
+.h1{
+    font-size: 34 px;
+    line-height: 42 px;
+    text-align: center ;
+    color: #070707;
+}
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 32 px;
+    padding-bottom: 10 px;
+}
+.new_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list_item {
+    text-decoration: none;
+    max-width: 30 px;
+    max-height: 30 px ;
+}
+.new_list_item {
+    text-decoration: none;
+    max-width: 30 px;
+    max-height: 30 px;
+}
